@@ -50,6 +50,6 @@ This project is inspired by the following research papers:
 - [End to End Learning for Self-Driving Cars by Nvidia](https://arxiv.org/pdf/1604.07316.pdf)
 - [End to End Learning based Self-Driving using JacintoNet](https://ieeexplore.ieee.org/document/8576190)
 
-I also used the dataset provided by Sully Chen:
+I'm also inspired by the implementation of Sully Chen and the dataset provided by him:
 
 - Dataset: [Autopilot-TensorFlow Dataset](https://github.com/SullyChen/Autopilot-TensorFlow)
