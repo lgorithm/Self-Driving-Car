@@ -32,18 +32,14 @@ I used the dataset provided by Sully Chen for training and evaluation. The datas
 
 To get started with the project, clone the repository and install the required dependencies:
 
-\`\`\`bash
-git clone https://github.com/lgorithm/Self-Driving-Car.git
-cd self-driving-car
-\`\`\`
+`git clone https://github.com/lgorithm/Self-Driving-Car.git`
+`cd self-driving-car`
 
 ## Usage
 
 To use the trained model for inference, run the following command:
 
-\`\`\`bash
-python run.py
-\`\`\`
+`python run.py`
 
 To visualize training using Tensorboard use tensorboard --logdir=./logs, then open http://0.0.0.0:6006/ into your web browser.
 
