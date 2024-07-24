@@ -30,7 +30,7 @@ I used the dataset provided by Sully Chen for training and evaluation. The datas
 
 ## Installation
 
-To get started with the project, clone the repository and install the required dependencies:
+To get started with the project, clone the repository:
 
 `git clone https://github.com/lgorithm/Self-Driving-Car.git`
 `cd self-driving-car`
