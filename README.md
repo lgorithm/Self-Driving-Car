@@ -30,20 +30,16 @@ I used the dataset provided by Sully Chen for training and evaluation. The datas
 
 ## Installation
 
-To get started with the project, clone the repository and install the required dependencies:
+To get started with the project, clone the repository:
 
-\`\`\`bash
-git clone https://github.com/lgorithm/Self-Driving-Car.git
-cd self-driving-car
-\`\`\`
+`git clone https://github.com/lgorithm/Self-Driving-Car.git`
+`cd self-driving-car`
 
 ## Usage
 
 To use the trained model for inference, run the following command:
 
-\`\`\`bash
-python run.py
-\`\`\`
+`python run.py`
 
 To visualize training using Tensorboard use tensorboard --logdir=./logs, then open http://0.0.0.0:6006/ into your web browser.
 
@@ -54,6 +50,6 @@ This project is inspired by the following research papers:
 - [End to End Learning for Self-Driving Cars by Nvidia](https://arxiv.org/pdf/1604.07316.pdf)
 - [End to End Learning based Self-Driving using JacintoNet](https://ieeexplore.ieee.org/document/8576190)
 
-I also used the dataset provided by Sully Chen:
+I'm also inspired by the implementation of Sully Chen and the dataset provided by him:
 
 - Dataset: [Autopilot-TensorFlow Dataset](https://github.com/SullyChen/Autopilot-TensorFlow)
